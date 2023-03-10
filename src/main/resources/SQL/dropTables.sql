@@ -1,0 +1,10 @@
+drop table answer;
+drop table lesson_score;
+drop table question;
+drop table student_course;
+drop table tag;
+drop table lesson;
+drop table lesson_test;
+drop table student;
+drop table course CASCADE;
+drop table teacher CASCADE;
